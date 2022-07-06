@@ -1,14 +1,54 @@
 .porkchops {
     height: auto;
     width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .steak {
     height: auto;
     width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .chicken {
     height: auto;
     width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.recipe-title {
+    text-align: center;
+    color: seagreen;
+    background-color: aquamarine;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.description {
+    color: red;
+    background-color: rgb(44, 37, 137);
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.ingredients {
+    color: blue;
+    background-color: goldenrod;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+    
+
+.steps {
+    color: yellow;
+    background-color: green;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
